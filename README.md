@@ -1,2 +1,2 @@
 # Screen-Recorder
-Screen recorder using opencv in python
+Screen Recorder using opencv in python
